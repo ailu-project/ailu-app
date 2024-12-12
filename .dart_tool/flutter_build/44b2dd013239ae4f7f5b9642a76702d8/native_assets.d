@@ -1,0 +1,1 @@
+ /home/paulorh/projects/faculdade/lp2/ailu/mobile-main/.dart_tool/flutter_build/44b2dd013239ae4f7f5b9642a76702d8/native_assets.yaml: 

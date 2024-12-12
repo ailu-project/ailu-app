@@ -1,0 +1,1 @@
+ /home/paulorh/projects/faculdade/lp2/ailu/mobile-main/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/paulorh/projects/faculdade/lp2/ailu/mobile-main/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/paulorh/projects/faculdade/lp2/ailu/mobile-main/l10n.yaml /home/paulorh/projects/faculdade/lp2/ailu/mobile-main/lib/src/localization/app_en.arb
